@@ -4,7 +4,6 @@
    <a href="https://github.com/RafaelM-Silva">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelM-Silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelM-Silva&layout=compact&langs_count=6&theme=tokyonight"/>
-    <img href:"180em" height="180" width="600"  src=" html da imagem  "/>
 
 </div>
 <div style="display: inline_block"><br>
